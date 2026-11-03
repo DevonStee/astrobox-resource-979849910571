@@ -3,7 +3,7 @@
     "id": "979849910571",
     "restype": "watchface",
     "name": "SPLIT SCRIPT",
-    "description": "SPLIT SCRIPT_切开的数字_双色文字\n阿拉伯数字和中文数字拼在一起读，颜色也跟着分开。\n目前支持小米手环 10 / 11（含 NFC）\n欢迎在小红书关注我 @叫我Brin就好。",
+    "description": "SPLIT SCRIPT_切开的数字_双色文字\n\n让时间被“切开”hhh, 一个很奇怪的尝试\n\n数字(一半的显示)与中文数字错落拼读，颜色利落分界, 一点点海报的感jio\n\nReference: 受到bbb海报的启发\n\n\n目前支持小米手环 10 / 11（含 NFC）\nDevice Support: Currently supports Mi Band 10 / 11 (with NFC)\n欢迎在小红书关注我 @叫我Brin就好。",
     "preview": [
       "media/03-preview-photo-v3.png",
       "media/04-preview-v2.png",
